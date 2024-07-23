@@ -2,6 +2,7 @@
 *.zip
 data/
 .ipynb_checkpoints
+*tfevents*
 
 
 model.ckpt
